@@ -18,3 +18,9 @@
 * state management system in angular.
 * .net core 2.1 + angular 7 setup?
 * i might add auth module?
+
+
+# why?
+* router navigation?
+* state management system?
+* auth module?
