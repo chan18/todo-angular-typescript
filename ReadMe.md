@@ -24,3 +24,5 @@
 * router navigation?
 * state management system?
 * auth module?
+
+# nope no test files yeat!
