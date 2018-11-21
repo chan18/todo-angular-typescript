@@ -1,5 +1,3 @@
-
-
 ## Goals
 
 * a minimal (angular + typescript) setup, configured to build this app.
